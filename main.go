@@ -1,3 +1,5 @@
+// Note that this assumes that iphone photos have been imported into Pictures via Image Capture
+
 package main
 
 import (
